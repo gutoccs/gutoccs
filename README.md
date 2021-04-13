@@ -4,14 +4,15 @@
 
 I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm currently in Caracas, Venezuela.
 
-##### Bio
+### Bio
 
-- 🏢 I'm currently working at [MyWololo](https://mywololo.com) as a Full-Stack Dev
-- 💻 I'm also an Architect and Back-End Developer at [Video Portal de Negocios](https://videoportaldenegocios.es/)
+- 🏢 I'm currently working at <a href="https://mywololo.com" target="_blank">MyWololo</a> as a Full-Stack Dev
+- 💻 I'm also an Architect and Back-End Developer at <a href="https://videoportaldenegocios.es/" target="_blank">Video Portal de Negocios</a>
 - ⚙️ I use daily: `Dart`, `Flutter`, `PHP`, `Laravel`, `Git`, `MySQL` and `Firebase`
 
-##### Contact
-- [go][gustavo-escobar.com](https://gustavo-escobar.com){:target="_blank"}
-- [@gutoccs](https://twitter.com/gutoccs) on Twitter
-- [@gutoccs](https://instagram.com/gutoccs) on Instagram
-- [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs/) on Linkedin
+### Contact
+
+- <a href="https://gustavo-escobar.com" target="_blank">gustavo-escobar.com</a>
+- <a href="https://twitter.com/gutoccs" target="_blank">@gutoccs</a> on Twitter
+- <a href="https://instagram.com/gutoccs" target="_blank">@gutoccs</a> on Instagram
+- <a href="https://www.linkedin.com/in/gutoccs/" target="_blank">Gustavo Escobar Cobos</a> on Linkedin
