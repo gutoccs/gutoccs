@@ -2,13 +2,14 @@
 
 ## Hi, I am Gustavo Escobar Cobos :wave:
 
-I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm currently in Caracas, Venezuela.
+I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm in Caracas, Venezuela.
 
 ### Bio
 
 - 🏢 I'm currently working at <a href="https://mywololo.com" target="_blank">MyWololo</a> as a Full-Stack Dev
-- 💻 I'm also an Architect and Back-End Developer at <a href="https://videoportaldenegocios.es/" target="_blank">Video Portal de Negocios</a>
+- 💻 I'm also an Software Architect and Back-End Developer at <a href="https://videoportaldenegocios.es/" target="_blank">Video Portal de Negocios</a>
 - ⚙️ I use daily: `Dart`, `Flutter`, `PHP`, `Laravel`, `Git`, `MySQL` and `Firebase`
+
 
 ### Contact
 
