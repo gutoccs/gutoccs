@@ -1,16 +1,17 @@
-### Hi there 👋
+![banner](https://raw.githubusercontent.com/gutoccs/gutoccs/main/top_image.jpg)
 
-<!--
-**gutoccs/gutoccs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I am Gustavo Escobar Cobos :wave:
 
-Here are some ideas to get you started:
+I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm currently in Caracas, Venezuela.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Bio
+
+- 🏢 I'm currently working at [MyWololo](https://mywololo.com) as a Full-Stack Dev
+- 💻 I'm also an Architect and Back-End Developer at [Video Portal de Negocios](https://videoportaldenegocios.es/)
+- ⚙️ I use daily: `Dart`, `Flutter`, `PHP`, `Laravel`, `Git`, `MySQL` and `Firebase`
+
+##### Contact
+- [gustavo-escobar.com](https://gustavo-escobar.com)
+- [@gutoccs](https://twitter.com/gutoccs) on Twitter
+- [@gutoccs](https://instagram.com/gutoccs) on Instagram
+- [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs/) on Linkedin
