@@ -11,7 +11,7 @@ I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm currentl
 - ⚙️ I use daily: `Dart`, `Flutter`, `PHP`, `Laravel`, `Git`, `MySQL` and `Firebase`
 
 ##### Contact
-- [gustavo-escobar.com](https://gustavo-escobar.com)
+- [go][gustavo-escobar.com](https://gustavo-escobar.com){:target="_blank"}
 - [@gutoccs](https://twitter.com/gutoccs) on Twitter
 - [@gutoccs](https://instagram.com/gutoccs) on Instagram
 - [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs/) on Linkedin
