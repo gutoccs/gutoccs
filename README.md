@@ -6,7 +6,7 @@ I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm in Carac
 
 ### Bio
 
-- 🏢 I'm currently working at [MyWololo](https://mywololo.com) as a Full-Stack Dev
+- 🏢 I'm currently working at <a href="https://mywololo.com" target="_blank">MyWololo</a> as a Full-Stack Dev
 - 💻 I'm also an Software Architect and Back-End Developer at [Video Portal de Negocios de Cohen y Aguirre](https://videoportaldenegocios.es)
 - ⚙️ I use daily: `Dart`, `Flutter`, `PHP`, `Laravel`, `Git`, `MySQL` and `Firebase`
 
