@@ -2,7 +2,7 @@
 
 ## Hi, I am Gustavo Escobar Cobos :wave:
 
-I'm a Freelance Full-Stack Dev who loves to learn about new things. I'm in Caracas, Venezuela.
+I'm a Freelance Developer who loves to learn about new things. I'm in Caracas, Venezuela.
 
 ### Bio
 
