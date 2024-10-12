@@ -13,7 +13,7 @@ I'm a Freelance Developer who loves to learn about new things. I'm in Caracas, V
 
 ### Contact
 
-- [gustavo-escobar.com](https://gustavo-escobar.com/)
+- [gutoccs.wordpress.com](https://gutoccs.wordpress.com/)
 - [@gutoccs](https://twitter.com/gutoccs) on Twitter
 - [@gutoccs](https://instagram.com/gutoccs) on Instagram
 - [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs) on Linkedin
