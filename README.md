@@ -16,6 +16,7 @@ I'm a Freelance Developer who loves to learn about new things. I'm in Caracas, V
 - [gutoccs.wordpress.com](https://gutoccs.wordpress.com/)
 - [@gutoccs](https://twitter.com/gutoccs) on Twitter
 - [@gutoccs](https://instagram.com/gutoccs) on Instagram
-- [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs) on Linkedin
+- [Gustavo Escobar Cobos](https://www.linkedin.com/in/gutoccs) on LinkedIn
+- [@gutoccs](https://www.youtube.com/@gutoccs) on YouTube
 - [@gutoccs](https://github.com/gutoccs) on Git (obviously)
 - [My Gists](https://gist.github.com/gutoccs)
